@@ -107,7 +107,7 @@
             }
 
             // Open the corresponding PDF
-            const pdfFileName = `assets/images/OPJindal_${selectedCourse}.pdf`;
+            const pdfFileName = `assets/img/IIM_${selectedCourse}.pdf`;
             window.open(pdfFileName, '_blank');
 
             // Form submits to mail.php automatically because there is no `event.preventDefault()` here

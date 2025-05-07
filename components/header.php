@@ -41,7 +41,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <input type="checkbox" id="nav-check">
             <div class="nav-header">
                 <div class="nav-title">
-                    <a href="https://iim.distanceeducationschool.com/" id="logo-link">  
+                    <a href="https://iim.distanceeducationschool.in/" id="logo-link">  
                         <img src="assets/img/iim-logo.png" class="logo" alt="IIM-Logo">
                     </a>
                 </div>
